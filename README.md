@@ -6,4 +6,4 @@ Dependencies Required:
 -Google FirebaseAuth
 -Google Firestore
 -Google Firebase Storage
--SDWebPhoto
+-SDWebImage
